@@ -5,13 +5,7 @@ public class Project1 {
 
 }
 
-// Phase 1: Basic Functionality
-// Objective: Create a system to manage books in a library.
-// Features to Implement:
-// Add a new book with details like title, author, and ISBN.
-// Display a list of all books.
-// Focus Concepts: Encapsulation, basic classes, and objects.
-
+// Library Management System
 class Booksinlib {
     private String title;
     private String Author;
